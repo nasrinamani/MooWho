@@ -4,7 +4,7 @@
 
 ## Features
 - Clickable animals that play realistic sounds
-- Find hidden animals to **unlock their unique sounds**
+- Find hidden animals based on sounds
 - Background music and engaging visuals
 - Simple and intuitive interface suitable for kids
 - Developed in C++ using **OpenGL, GLFW, GLEW, OpenAL, and FreeGLUT**

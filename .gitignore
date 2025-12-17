@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.ipch
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build folders
+bin/
+obj/
+Debug/
+Release/
